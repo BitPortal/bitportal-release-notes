@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+#更新日志
 
-You can use the [editor on GitHub](https://github.com/BitPortal/bitportal-release-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## V0.2.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+相对较大的版本更新，完善诸多功能。
 
-### Markdown
+* 优化导入账户流程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 修复和完善Discovery页面
 
-```markdown
-Syntax highlighted code block
+* 增加帮助中心
 
-# Header 1
-## Header 2
-### Header 3
+* 添加新建账户功能（通过邀请码）
 
-- Bulleted
-- List
+* 修复bug和提升兼容性
 
-1. Numbered
-2. List
+## v0.1.5
 
-**Bold** and _Italic_ and `Code` text
+* 增加转账功能
 
-[Link](url) and ![Image](src)
-```
+* 增加历史记录
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* 修复细节
 
-### Jekyll Themes
+## V0.1.4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BitPortal/bitportal-release-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 更新了投票界面，增加节点详情
 
-### Support or Contact
+* 用户界面调整，加上诸多优化
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 添加实时内存价格
+
+* bug修复等
+
+
+
+## Beta v0.1.3
+
+* 添加了EOS系统资源管理功能，支持CPU，Net，Memory的显示，抵押和买卖
+
+* 修复iOS中discovery显示顺序的问题
+
+* 修复部分android机器兼容问题
+
+
+
+## Beta V0.1.2
+
+* 支持EOS主网账户导入和投票
+
+* 优化细节，简化未完成功能
+
+* 翻译
+
+
+
+## Beta V0.1.1
+
+* 完善细节，修复Bug
+
+* 投票支持多选
+
+* 其他
+
+0.1.0 Beta
+
+* 首次发布，支持EOS的投票，资产管理以及市场资讯。
