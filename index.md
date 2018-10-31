@@ -1,3 +1,40 @@
+## V0.4.0
+
+1.	添加两种创建钱包的方式
+  a)	通过好友协助进行注册。
+  b)	通过智能合约注册
+
+2.	调整了节点选择页面的UI，增加了节点速度的信息
+
+3.	新增了韩语版本
+
+4.	Dapp Store界面优化
+
+5.	针对安卓机型的性能优化
+
+6.	部分界面的表单设计优化
+
+7.	App性能及其他界面设计优化
+
+
+1. Add two wallet creation method
+  a) Register by Friend Assistance.
+  b) Register by Smart Contract.
+
+2. Adjusted the UI for node selection page, increase node speed information.
+
+3. Added Korean version
+
+4. Dapp Store page optimization
+
+5. Performance optimization for Android models
+
+6. Redesign the form in app.
+
+7. App performance and other UI design optimization
+
+
+
 ## V0.3.1
 
 1. 支持Scatter插件
