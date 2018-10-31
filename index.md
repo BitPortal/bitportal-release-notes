@@ -1,5 +1,6 @@
 ## V0.4.0
 
+中文版：
 1.	添加两种创建钱包的方式
   a)	通过好友协助进行注册。
   b)	通过智能合约注册
@@ -16,7 +17,7 @@
 
 7.	App性能及其他界面设计优化
 
-
+English Version
 1. Add two wallet creation method
   a) Register by Friend Assistance.
   b) Register by Smart Contract.
