@@ -1,3 +1,19 @@
+## v0.4.2
+
+中文版：
+1. 优化了发现页面，增加了 DApp 的分类
+2. 支持了 Simple Wallet
+3. 将 EOS 默认节点修改为 BitPortal 节点
+4. 优化了注册码创建账户页面文字
+5. 在资产页面增加了更多操作的下拉框
+
+English Version:
+1. Optimized Discovery page and added the category of DApp
+2. Supported Simple Wallet
+3. Modify the default EOS node to BitPortal node.
+4. Optimized the text introduction for create account by registration code
+5. Added a drop-down box for added operations on Assets page.
+
 ## V0.4.0
 
 中文版：
